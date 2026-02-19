@@ -17,6 +17,7 @@ O objetivo deste projeto é aplicar os conceitos fundamentais de lógica de prog
 - Estruturas de repetição (`for`)
 - Operadores aritméticos, ternário e relacionais
 - Declaração e manipulação de variáveis
+- Organização do código com métodos estáticos para separação de responsabilidades
 
 O projeto foi desenvolvido como prática para reforçar a base da programação em Java, com foco em raciocínio lógico e construção de algoritmos.
 
